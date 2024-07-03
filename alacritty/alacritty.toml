@@ -3,7 +3,7 @@
 
 # Importing the terminal theme
 import = [
-    "~/.config/alacritty/themes/themes/horizon-dark.toml"           # Perhaps switch to another theme.
+    "~/.config/alacritty/themes/themes/horizon-dark.toml" # Perhaps switch to another theme.
 ]
 
 live_config_reload = true
@@ -16,13 +16,13 @@ ipc_socket = false
 TERM = "alacritty"
 
 [window]
-title = "Terminal"							                	    # Custom window title
-dynamic_title = true							                    # Allow terminal applications to change Alacritty's window title.
-dimensions = { columns = 130, lines = 35}		                    # Window dimensions (changes require restart).
-position = "None"					                  			    # Window startup position.
-padding = { x = 0, y = 0 } 						                    # Blank space added around the window in pixels.
-opacity = 0.85									                    # Background opacity as a floating point number from 0.0 to 1.0.
-startup_mode = "Windowed"					              	        # Startup mode (changes require restart).
+title = "Terminal"
+dynamic_title = true
+dimensions = { columns = 130, lines = 35}
+position = "None"
+padding = { x = 0, y = 0 }
+opacity = 0.85
+startup_mode = "Windowed"
 
 [scrolling]
 history = 100000
@@ -40,7 +40,7 @@ style = "Regular"
 
 [bell]
 animation = "Ease"
-duration = 0									                    # Disable the visual bell flash (Duration of the bell flash in ms).
+duration = 0 # Disable the visual bell flash (Duration of the bell flash in ms).
 
 
 [mouse]
