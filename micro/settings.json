@@ -1,0 +1,14 @@
+{
+    "colorscheme": "recurring-sunset",
+    "initlua": true,
+    "matchbracestyle": "underline",
+    "mkparents": true,
+    "pluginchannels": [
+        "https://raw.githubusercontent.com/micro-editor/plugin-channel/master/channel.json"
+    ],
+    "pluginrepos": [],
+    "savecursor": true,
+    "saveundo": true,
+    "tabhighlight": true,
+    "tabreverse": false
+}
