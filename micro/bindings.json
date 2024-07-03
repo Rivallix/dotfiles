@@ -1,0 +1,6 @@
+{
+    "Alt-/": "lua:comment.comment",
+    "Ctrl-T": "lua:filemanager.toggle_tree",
+    "CtrlUnderscore": "lua:comment.comment",
+    "F4": "command:jumptag"
+}
